@@ -22,3 +22,5 @@ var sharedBlacklist = [
 expo install react-native-gesture-handler
 
 npm install react-native-gesture-handler react-native-reanimated react-native-screens
+
+npm install --save expo-font
