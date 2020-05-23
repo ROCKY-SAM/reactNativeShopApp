@@ -8,6 +8,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@expo/vector-icons": "^10.2.0",
     "expo": "~37.0.3",
     "expo-font": "^8.1.1",
     "react": "~16.9.0",
@@ -23,8 +24,9 @@
     "redux": "^4.0.4"
   },
   "devDependencies": {
+    "@babel/core": "^7.8.6",
     "babel-preset-expo": "~8.1.0",
-    "@babel/core": "^7.8.6"
+    "redux-devtools-extension": "^2.13.8"
   },
   "private": true
 }

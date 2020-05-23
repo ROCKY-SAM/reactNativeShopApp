@@ -24,3 +24,6 @@ expo install react-native-gesture-handler
 npm install react-native-gesture-handler react-native-reanimated react-native-screens
 
 npm install --save expo-font
+
+npm install --save-dev redux-devtools-extension
+npm install --save @expo/vector-icons
