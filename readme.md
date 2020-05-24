@@ -27,3 +27,4 @@ npm install --save expo-font
 
 npm install --save-dev redux-devtools-extension
 npm install --save @expo/vector-icons
+npm install --save moment
